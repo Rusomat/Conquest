@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['Conquest.py'],
-             pathex=['C:\\Games\\1\\code\\new\\Conquest'],
+             pathex=['C:\\Games\\1\\code\\new\\conquest non-compiled'],
              binaries=[],
              datas=[],
              hiddenimports=[],
